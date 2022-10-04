@@ -139,6 +139,7 @@
                 else
                 {
                     Console.WriteLine("Perdu, c'était : "+ PrintValues(choixPC));
+                    break;
                 }
             }
         }
